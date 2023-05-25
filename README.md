@@ -37,7 +37,7 @@
 
  ## Leads
 
- Para fazer a coleta de leads, foi utilizado o plugin Contact Form 7 e o plugin Contact Form 7 Extension For Mailchimp para fazer a conexão do formulário com a MailChimp, plataforma utilizada para gerenciar os leads. Para adicionar o formulário á página, foi utilizado o plugin Essential Addons for Elementor.
+ Para fazer a coleta de leads, foi utilizado o plugin Contact Form 7 e o plugin Contact Form 7 Extension For Mailchimp para fazer a conexão do formulário com a MailChimp, plataforma utilizada para gerenciar os leads. Para adicionar o formulário à página, foi utilizado o plugin Essential Addons for Elementor.
 
 
  ## Plugins Utilizados
