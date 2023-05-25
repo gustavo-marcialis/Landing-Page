@@ -3,7 +3,7 @@
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   
   
- > Este projeto é una Landing Page deseenvolvida com WordPress.
+ > Este projeto é uma Landing Page deseenvolvida com WordPress.
   
   
  ## 🚀 Instalando a Landing Page
